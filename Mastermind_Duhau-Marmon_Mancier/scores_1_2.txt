@@ -1,0 +1,7 @@
+Aigle;5
+Autour;5
+Busard;5
+Buse;5
+Circaete;8
+Epervier;9
+Vautour;9

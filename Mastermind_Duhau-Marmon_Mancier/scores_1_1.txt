@@ -1,0 +1,6 @@
+﻿Ibis;4
+Spatule;5
+Aigrette;6
+Heron;7
+Fregate;8
+1;12

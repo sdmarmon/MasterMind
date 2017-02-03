@@ -1,0 +1,8 @@
+Colin;3
+Caille;4
+Faisan;4
+Gélinotte;5
+Lagopede;7
+Perdrix;8
+Tétras;8
+0;15

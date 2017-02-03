@@ -1,0 +1,7 @@
+Fulmar;3
+Pétrel;3
+Puffin;5
+Océanite;5
+Grebe;6
+Flamant;8
+Cigogne;8

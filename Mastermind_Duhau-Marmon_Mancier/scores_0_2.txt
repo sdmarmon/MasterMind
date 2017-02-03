@@ -1,0 +1,6 @@
+Nette;5
+Oie;6
+Sarcelle;8
+Tadorne;8
+Plongeon;9
+Albatros;9

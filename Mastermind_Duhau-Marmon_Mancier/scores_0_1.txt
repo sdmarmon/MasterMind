@@ -1,0 +1,9 @@
+Arlequin;2
+Bernache;5
+Canard;5
+Cygne;7
+Eider;9
+Fuligule;9
+Garrot;9
+Harelde;9
+Harle;10

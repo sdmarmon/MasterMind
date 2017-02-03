@@ -1,0 +1,9 @@
+Thematiques:
+Couleur:rouge;jaune;vert;bleu;orange;blanc;violet;fuchsia;rose;gris;noir;
+Lettre:A;B;C;D;E;F;G;H;I;J;K;L ;M;N;O;P;Q;R;S;T;U;V;W;X;y;Z;
+Figure:Carre;Triangle;Rectangle;Losange;Trapeze;Cercle;Parallelepipede;Ellipse;Pentagone;Hexagone;Heptagone;Octogone;Nonagone;Decagone;
+
+Niveaux:
+Debutant:4;15;8;
+Normal:4;12;10;
+Expert:6;10;10;

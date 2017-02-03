@@ -1,0 +1,8 @@
+Faucon;3
+Milan;4
+Outarde;5
+*;6
+Foulque;7
+Marouette;8
+Grue;8
+Avocette;8
